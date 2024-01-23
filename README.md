@@ -1,4 +1,4 @@
-# SEU_CProject_Assignment
+# SEU_C Program_ Final_Project_Assignment
 
 Task: Daily temperature readings for a city over a certain period.
 
